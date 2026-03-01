@@ -7,8 +7,7 @@ A machine learning project that classifies hand gestures in real time using **Me
 ## 📁 Repository Structure
 
 ```
-├── Hand_Gesture_Classification.ipynb        # Main notebook — no MLflow (main branch)
-├── Hand_Gesture_Classification_MLflow.ipynb # Full notebook with MLflow (research branch)
+├── Hand_Gesture_Classification.ipynb        # Full notebook with MLflow 
 ├── mlflow_utils.py                          # All MLflow logic lives here
 ├── mlruns/                                  # MLflow tracking data
 ├── screenshots/                             # MLflow UI screenshots
