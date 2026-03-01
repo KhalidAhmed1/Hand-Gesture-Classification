@@ -299,7 +299,7 @@ def log_model_comparison_chart(results: list, artifact_path: str = "comparison")
     Logs a grouped-bar chart comparing all models.
     """
     df = pd.DataFrame(results).set_index("model")
-    metrics_to_plot = ["cv_accuracy", "dev_accuracy", "test_accuracy", "dev_macro_f1"]
+    metrics_to_plot = ["dev_accuracy", "test_accuracy", "dev_macro_f1"]
     df = df[[c for c in metrics_to_plot if c in df.columns]]
 
     fig, ax = plt.subplots(figsize=(10, 6))
