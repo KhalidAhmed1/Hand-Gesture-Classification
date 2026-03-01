@@ -1,0 +1,14 @@
+artifact_uri: file:///h:/ITI/12. Supervised Learning/Hand-Gesture-Classification/mlruns/289455450726843903/2d29db3fe3df48799117a3ff6bfabf6a/artifacts
+end_time: 1772327793111
+entry_point_name: ''
+experiment_id: '289455450726843903'
+lifecycle_stage: active
+run_id: 2d29db3fe3df48799117a3ff6bfabf6a
+run_name: svm-tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772327777753
+status: 3
+tags: []
+user_id: win11

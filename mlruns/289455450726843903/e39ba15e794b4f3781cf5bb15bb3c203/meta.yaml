@@ -1,0 +1,15 @@
+artifact_uri: file:///h:/ITI/12. Supervised Learning/Hand-Gesture-Classification/mlruns/289455450726843903/e39ba15e794b4f3781cf5bb15bb3c203/artifacts
+deleted_time: 1772328890584
+end_time: 1772327249927
+entry_point_name: ''
+experiment_id: '289455450726843903'
+lifecycle_stage: deleted
+run_id: e39ba15e794b4f3781cf5bb15bb3c203
+run_name: random-forest-randomized-search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772327249812
+status: 4
+tags: []
+user_id: win11

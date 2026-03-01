@@ -1,0 +1,10 @@
+artifact_location: file:///h:/ITI/12. Supervised Learning/Hand-Gesture-Classification/mlruns/289455450726843903/models/m-0c9b06db17c541bea9833a9b205c2b07/artifacts
+creation_timestamp: 1772327483073
+experiment_id: '289455450726843903'
+last_updated_timestamp: 1772327496072
+model_id: m-0c9b06db17c541bea9833a9b205c2b07
+model_type: null
+name: model
+source_run_id: 80f4f0f0d8b04116b1e297d2573a7239
+status: 2
+status_message: null

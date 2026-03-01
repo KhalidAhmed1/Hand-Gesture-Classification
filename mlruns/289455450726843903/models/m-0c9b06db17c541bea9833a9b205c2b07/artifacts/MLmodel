@@ -1,0 +1,33 @@
+artifact_path: file:///h:/ITI/12. Supervised Learning/Hand-Gesture-Classification/mlruns/289455450726843903/models/m-0c9b06db17c541bea9833a9b205c2b07/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.10.0
+model_id: m-0c9b06db17c541bea9833a9b205c2b07
+model_size_bytes: 35596851
+model_uuid: m-0c9b06db17c541bea9833a9b205c2b07
+prompts: null
+run_id: 80f4f0f0d8b04116b1e297d2573a7239
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 111]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-03-01 01:11:23.560608'

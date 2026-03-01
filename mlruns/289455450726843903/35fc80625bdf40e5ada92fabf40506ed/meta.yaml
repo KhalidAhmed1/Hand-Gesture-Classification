@@ -1,0 +1,14 @@
+artifact_uri: file:///h:/ITI/12. Supervised Learning/Hand-Gesture-Classification/mlruns/289455450726843903/35fc80625bdf40e5ada92fabf40506ed/artifacts
+end_time: 1772327919590
+entry_point_name: ''
+experiment_id: '289455450726843903'
+lifecycle_stage: active
+run_id: 35fc80625bdf40e5ada92fabf40506ed
+run_name: xgboost-tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772327909702
+status: 3
+tags: []
+user_id: win11
