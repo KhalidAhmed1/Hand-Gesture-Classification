@@ -175,6 +175,7 @@ def log_sklearn_model(model, X_sample, model_name: str):
     print(f"[MLflow] Logged model: {model_name}")
 
 
+
 def log_xgboost_model(model, X_sample, model_name: str):
     """
     Log an XGBoost model natively for better serialization.
